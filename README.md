@@ -7,4 +7,4 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
   - HuggingFace
   - Replicate
 - Papers
-  - ![QLora](https://arxiv.org/abs/2305.14314)
+  - [QLora](https://arxiv.org/abs/2305.14314)
