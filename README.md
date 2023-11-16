@@ -73,10 +73,12 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
   - [What makes LLM tokenizers different from each other?](https://www.youtube.com/watch?v=rT6wVLEDC_w)
 
 # Prompt Engineering
+- [Try Prompt Hacking to know the passcode](https://gandalf.lakera.ai/)
 
 
 # Agents 
 - [Survey on Rise and Potential of LLM based Agents](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+- [Surver on LLM based AutoAgents](https://github.com/Paitesanshi/LLM-Agent-Survey#-more-comprehensive-summarization)
 
 
 # Tutorials 
@@ -92,5 +94,5 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 
 # Notebooks 
 - [Graph RAG using Llama-index](https://colab.research.google.com/drive/1tLjOg2ZQuIClfuWrAC2LdiZHCov8oUbs?usp=sharing)
-- OpenAI Cookbook[blog](https://cookbook.openai.com/)[github](https://github.com/openai/openai-cookbook/tree/main/examples)
+- OpenAI Cookbook [blog](https://cookbook.openai.com/) [github](https://github.com/openai/openai-cookbook/tree/main/examples)
 - 
