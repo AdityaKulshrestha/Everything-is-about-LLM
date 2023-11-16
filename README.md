@@ -6,6 +6,7 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 - [Lilian Weng](https://lilianweng.github.io/)
 - [Sayak Paul's Roadmap](https://docs.google.com/document/u/0/d/1iQlsGOZX0UA3U58gEtwV5-9moolOvZ5HosjDee6jVck/mobilebasic)
 - [Harsh Singhal's Ideas based on LLM](https://docs.google.com/document/u/0/d/1uFwAt2yxoJWX80gjoTNVPNaduUp-OvJQ_DxJUjKZzyc/mobilebasic)
+- [Sebastian Raschka](https://substack.com/@rasbt)
 
 # Understanding Transformers 
 - Blogs
@@ -31,6 +32,9 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 # LLMs 
 - FinGPT[Paper](https://arxiv.org/abs/2306.06031)
 
+# Embeddings 
+- Use Cases
+  - [Spam Classification using Embeddings](https://ahujaniharika95.medium.com/spam-classification-using-word2vec-embeddings-70c4ffa56b40)
 
 # Quantization 
 - Blogs
@@ -42,12 +46,19 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 # Production 
 - Blogs
   - [How ByteDance Scales Offline Inference with multi-modal LLMs to 200 TB Data](https://www.anyscale.com/blog/how-bytedance-scales-offline-inference-with-multi-modal-llms-to-200TB-data)
+  - [Building a RAG based production application - Anyscale](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
  
 # LLM Tools 
 - Nemo GuardRails
   - [The missing manual](https://www.pinecone.io/learn/nemo-guardrails-intro/)
+
+- [LitGPT - Official starter kit for the NeurIPS 2023 LLM Efficiency Challenge](https://github.com/Lightning-AI/lit-gpt/tree/main)
  
 - [Steaming LLM](https://github.com/mit-han-lab/streaming-llm)
+
+
+# Optimization
+- [Optimization LLMs from a dataset perspective](https://lightning.ai/pages/community/tutorial/optimizing-llms-from-a-dataset-perspective/)
 
 # Evaluation of LLM 
 - [Evaluating LLMs is a minefield - Princeton University](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
@@ -65,6 +76,12 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 
 
 # Agents 
+- [Survey on Rise and Potential of LLM based Agents](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+
+
+# Tutorials 
+- Youtube
+  - [Neural Hacks with Vasanth](https://www.youtube.com/@NeuralHackswithVasanth/videos)
 
 # Multimodal LLMs
 - Papers
