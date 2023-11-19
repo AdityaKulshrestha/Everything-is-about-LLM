@@ -62,6 +62,10 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 
 # Evaluation of LLM 
 - [Evaluating LLMs is a minefield - Princeton University](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
+
+- Tools
+  - [Ragas](https://github.com/explodinggradients/ragas)
+  - [Giskard](https://github.com/Giskard-AI/giskard)
  
 # Hosting 
 - Blogs
