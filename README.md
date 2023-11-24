@@ -35,6 +35,8 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 # Embeddings 
 - Use Cases
   - [Spam Classification using Embeddings](https://ahujaniharika95.medium.com/spam-classification-using-word2vec-embeddings-70c4ffa56b40)
+- Blogs
+  - [Embeddings: What are they?](https://simonwillison.net/2023/Oct/23/embeddings/)
 
 # Quantization 
 - Blogs
@@ -62,6 +64,7 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 
 # Evaluation of LLM 
 - [Evaluating LLMs is a minefield - Princeton University](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
+- [Compiled Resources for LLM Evaluation](https://docs.google.com/document/u/0/d/1ndYxbN9O7dGKeVXR53B3xHFszniSyho6KLaq-aniDRo/mobilebasic)
 
 - Tools
   - [Ragas](https://github.com/explodinggradients/ragas)
