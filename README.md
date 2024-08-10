@@ -7,6 +7,7 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 - [Sayak Paul's Roadmap](https://docs.google.com/document/u/0/d/1iQlsGOZX0UA3U58gEtwV5-9moolOvZ5HosjDee6jVck/mobilebasic)
 - [Harsh Singhal's Ideas based on LLM](https://docs.google.com/document/u/0/d/1uFwAt2yxoJWX80gjoTNVPNaduUp-OvJQ_DxJUjKZzyc/mobilebasic)
 - [Sebastian Raschka](https://substack.com/@rasbt)
+- [Cameron Wolfe](https://cameronrwolfe.me/)
 
 # Understanding Transformers 
 - Blogs
@@ -41,6 +42,7 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 # Quantization 
 - Blogs
   - [Huggingface's intro to quantization](https://huggingface.co/blog/merve/quantization)
+  - [Maarten Grootendorst: A visual guide to quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization
 
 # Cost 
 - [LLM cost estimation from fine tuning to inference](https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing/tree/main/Articles/Resources)
