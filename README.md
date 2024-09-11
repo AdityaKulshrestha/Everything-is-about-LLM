@@ -97,6 +97,7 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 # Agents 
 - [Survey on Rise and Potential of LLM based Agents](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 - [Surver on LLM based AutoAgents](https://github.com/Paitesanshi/LLM-Agent-Survey#-more-comprehensive-summarization)
+- [Working with Agents Lilian Blog](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 
 # Tutorials 
