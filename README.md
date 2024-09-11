@@ -61,6 +61,7 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
   - [Zomato AI](https://blog.zomato.com/introducing-zomato-ai-your-foodie-buddy)
 - Videos
   - [Zia @ Zomato Chatbot (Really good)](https://www.youtube.com/watch?v=4vTWd3QOlpg&t=1608s)
+  - [Flipkart Enhances AI Safety in E-Commerce](https://blog.flipkart.tech/flipkart-enhances-ai-safety-in-e-commerce-implementing-nvidia-nemo-guardrails-cb2f293b29c0)
  
 # LLM Tools 
 - Nemo GuardRails
