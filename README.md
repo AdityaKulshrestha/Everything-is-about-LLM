@@ -34,6 +34,10 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 - FinGPT[Paper](https://arxiv.org/abs/2306.06031)
 - Best Comprehensive Paper on LLMs (everything inclusive) [Paper](https://arxiv.org/html/2401.02038v2)
 
+# Inference 
+- [Mathematics on Inference](https://kipp.ly/transformer-inference-arithmetic/#latency-calculations)
+- [Best Slides on Inference and issues around it](https://linden-li.github.io/posts/inference-slides?ref=jinghong-chen.net)
+
 # Embeddings 
 - Use Cases
   - [Spam Classification using Embeddings](https://ahujaniharika95.medium.com/spam-classification-using-word2vec-embeddings-70c4ffa56b40)
@@ -52,6 +56,7 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 - Blogs
   - [How ByteDance Scales Offline Inference with multi-modal LLMs to 200 TB Data](https://www.anyscale.com/blog/how-bytedance-scales-offline-inference-with-multi-modal-llms-to-200TB-data)
   - [Building a RAG based production application - Anyscale](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
+  - [GenAI/Agents/LLMs in Production at Zomato](https://www.youtube.com/watch?v=4vTWd3QOlpg&t=1608s)
  
 # LLM Tools 
 - Nemo GuardRails
@@ -64,12 +69,13 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 
 # Optimization
 - [Optimization LLMs from a dataset perspective](https://lightning.ai/pages/community/tutorial/optimizing-llms-from-a-dataset-perspective/)
+- [Bringing the best of GPU](https://horace.io/brrr_intro.html)
 
 # Evaluation of LLM 
 - [Evaluating LLMs is a minefield - Princeton University](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
 - [Compiled Resources for LLM Evaluation](https://docs.google.com/document/u/0/d/1ndYxbN9O7dGKeVXR53B3xHFszniSyho6KLaq-aniDRo/mobilebasic)
 
-- Tools
+# Tools
   - [Ragas](https://github.com/explodinggradients/ragas)
   - [Giskard](https://github.com/Giskard-AI/giskard)
  
