@@ -37,6 +37,7 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 # Inference 
 - [Mathematics on Inference](https://kipp.ly/transformer-inference-arithmetic/#latency-calculations)
 - [Best Slides on Inference and issues around it](https://linden-li.github.io/posts/inference-slides?ref=jinghong-chen.net)
+- [Optimized toolkit to deploy LLM - Sgrank](https://github.com/sgl-project/sglang)
 
 # Embeddings 
 - Use Cases
@@ -56,14 +57,15 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 - Blogs
   - [How ByteDance Scales Offline Inference with multi-modal LLMs to 200 TB Data](https://www.anyscale.com/blog/how-bytedance-scales-offline-inference-with-multi-modal-llms-to-200TB-data)
   - [Building a RAG based production application - Anyscale](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
-  - [GenAI/Agents/LLMs in Production at Zomato](https://www.youtube.com/watch?v=4vTWd3QOlpg&t=1608s)
+  - [Recipe @ Zomato](https://blinkit.com/blog/recipe-rover)
+  - [Zomato AI](https://blog.zomato.com/introducing-zomato-ai-your-foodie-buddy)
+- Videos
+  - [Zia @ Zomato Chatbot (Really good)](https://www.youtube.com/watch?v=4vTWd3QOlpg&t=1608s)
  
 # LLM Tools 
 - Nemo GuardRails
   - [The missing manual](https://www.pinecone.io/learn/nemo-guardrails-intro/)
-
 - [LitGPT - Official starter kit for the NeurIPS 2023 LLM Efficiency Challenge](https://github.com/Lightning-AI/lit-gpt/tree/main)
- 
 - [Steaming LLM](https://github.com/mit-han-lab/streaming-llm)
 
 
@@ -76,8 +78,8 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 - [Compiled Resources for LLM Evaluation](https://docs.google.com/document/u/0/d/1ndYxbN9O7dGKeVXR53B3xHFszniSyho6KLaq-aniDRo/mobilebasic)
 
 # Tools
-  - [Ragas](https://github.com/explodinggradients/ragas)
-  - [Giskard](https://github.com/Giskard-AI/giskard)
+- [Ragas](https://github.com/explodinggradients/ragas)
+- [Giskard](https://github.com/Giskard-AI/giskard)
  
 # Hosting 
 - Blogs
