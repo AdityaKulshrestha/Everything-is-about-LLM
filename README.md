@@ -33,7 +33,7 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 # LLMs 
 - FinGPT[Paper](https://arxiv.org/abs/2306.06031)
 - Best Comprehensive Paper on LLMs (everything inclusive) [Paper](https://arxiv.org/html/2401.02038v2)
-- [Working with LLMs](https://applied-llms.org/)
+- [Working with LLMs: How to handle LLMs (Good Guide)](https://applied-llms.org/)
 
 # Inference 
 - [Mathematics on Inference](https://kipp.ly/transformer-inference-arithmetic/#latency-calculations)
