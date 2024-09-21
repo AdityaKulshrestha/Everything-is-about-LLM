@@ -30,6 +30,12 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
  - Youtube
   - [RAG Implementation of medical Chatbot using Mitral 7B](https://www.youtube.com/watch?v=1mH1BvBJCl0)
 
+# RAG
+- Deployments
+  - https://www.anthropic.com/news/contextual-retrieval
+- Improvising RAG
+  - https://jina.ai/news/late-chunking-in-long-context-embedding-models/
+
 # LLMs 
 - FinGPT[Paper](https://arxiv.org/abs/2306.06031)
 - Best Comprehensive Paper on LLMs (everything inclusive) [Paper](https://arxiv.org/html/2401.02038v2)
