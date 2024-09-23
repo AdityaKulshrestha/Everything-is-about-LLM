@@ -4,7 +4,8 @@
 
 ## Improving RAG 
 
-
+## Chunking 
+- [Late Chunking](https://www.linkedin.com/posts/victorialslocum_optimizing-chunking-techniques-is-one-of-activity-7242135120428642304-nNeX?utm_source=share&utm_medium=member_desktop)
 
 ## Retrieval 
 - [Anthropic - Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
