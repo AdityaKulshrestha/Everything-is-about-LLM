@@ -4,6 +4,13 @@
 
 ## Improving RAG 
 
+## Extensive collection of RAG improvements 
+### Github
+- [RAG from zero to one](https://github.com/NirDiamant/RAG_Techniques)
+
+### Youtube 
+- [Langchain: Beginning to Mastery](https://www.youtube.com/watch?v=sVcwVQRHIc8)
+
 ## Chunking 
 - [Late Chunking](https://www.linkedin.com/posts/victorialslocum_optimizing-chunking-techniques-is-one-of-activity-7242135120428642304-nNeX?utm_source=share&utm_medium=member_desktop)
 
