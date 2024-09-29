@@ -10,3 +10,6 @@
 
 ## Building Agents from Scratch
 - [Hamza Farooq](https://medium.com/@hamzafarooq/build-your-agents-from-scratch-forget-autogen-or-crewai-part-a-a114cd1e785f)
+
+## Examples 
+- [NirDhama - Agents: Easy to advance (Jupyter notebooks)](https://github.com/NirDiamant/GenAI_Agents)
