@@ -122,4 +122,7 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 # Notebooks 
 - [Graph RAG using Llama-index](https://colab.research.google.com/drive/1tLjOg2ZQuIClfuWrAC2LdiZHCov8oUbs?usp=sharing)
 - OpenAI Cookbook [blog](https://cookbook.openai.com/) [github](https://github.com/openai/openai-cookbook/tree/main/examples)
-- 
+
+# Reasoning in LLMs
+- [Improved reasoning through COT + Reflection + Verbal Reinforcement](https://medium.com/@harishhacker3010/can-we-make-any-smaller-opensource-ai-models-smarter-than-human-1ea507e644a0)
+- [Github for above](https://github.com/harishsg993010/LLM-Research-Scripts/blob/main/anthropic_reasoning.py)
