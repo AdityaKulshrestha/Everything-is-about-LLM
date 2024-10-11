@@ -15,6 +15,7 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
   - [Generative AI exists because of the transformer - Easy Scrollable Guide](https://ig.ft.com/generative-ai/)
 - Youtube
   - [Serrano Academy - Large Language Models](https://www.youtube.com/watch?v=OxCpWwDCDFQ&list=PLs8w1Cdi-zva4fwKkl9EK13siFvL9Wewf)
+  - [QLoRA & Quantization in Finetuning](https://mccormickml.com/2024/09/14/qlora-and-4bit-quantization/)
 
 # Fine Tuning 
 - Libraries
