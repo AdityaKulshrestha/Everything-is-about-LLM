@@ -11,6 +11,9 @@
 ### Youtube 
 - [Langchain: Beginning to Mastery](https://www.youtube.com/watch?v=sVcwVQRHIc8)
 
+## Paper
+- [Challenges and solutions in RAG by Nvidia](https://www.linkedin.com/posts/lekhapriya_ai-machinelearning-nvidia-activity-7252147328315215873-G79y?utm_source=share&utm_medium=member_android)
+
 ## Chunking 
 - [Late Chunking](https://www.linkedin.com/posts/victorialslocum_optimizing-chunking-techniques-is-one-of-activity-7242135120428642304-nNeX?utm_source=share&utm_medium=member_desktop)
 
