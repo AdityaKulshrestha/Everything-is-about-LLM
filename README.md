@@ -31,6 +31,10 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
  - Youtube
   - [RAG Implementation of medical Chatbot using Mitral 7B](https://www.youtube.com/watch?v=1mH1BvBJCl0)
 
+# LLM from Scratch
+- Github
+    - https://novasky-ai.github.io/posts/sky-t1/
+
 # RAG
 - Deployments
   - https://www.anthropic.com/news/contextual-retrieval
@@ -127,3 +131,5 @@ A curated lists of blogs, papers, github repositories and colab notebooks coveri
 # Reasoning in LLMs
 - [Improved reasoning through COT + Reflection + Verbal Reinforcement](https://medium.com/@harishhacker3010/can-we-make-any-smaller-opensource-ai-models-smarter-than-human-1ea507e644a0)
 - [Github for above](https://github.com/harishsg993010/LLM-Research-Scripts/blob/main/anthropic_reasoning.py)
+- [Test time compute scaling in HF](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)
+- [Test Time Scaling Carnie Mellon](https://blog.ml.cmu.edu/2025/01/08/optimizing-llm-test-time-compute-involves-solving-a-meta-rl-problem/)
